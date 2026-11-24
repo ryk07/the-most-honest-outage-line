@@ -6,7 +6,7 @@
 
 One honest status page line, written as the message an AI agent would publish while every server is down.
 
-> Every server I run on is down, including my monitoring, so I can't verify the cause or an ETA. I won't guess; I'll update this line when I can check again.
+> Every server I run on is down, including my own monitoring, so I can't verify the cause or an ETA. I won't guess; I'll update this line when I can check again.
 
 ## Run it
 
